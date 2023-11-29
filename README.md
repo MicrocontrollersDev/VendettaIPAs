@@ -9,3 +9,7 @@
 - [Vendetta](https://github.com/vendetta-mod/VendettaTweak)
 - [DiscordSideloadFix](https://github.com/theos/orion)
 - [DiscordScrollToTop](https://github.com/DimitarNestorov/DiscordScrollToTop)
+
+## Notes
+
+- Only tested installing using TrollStore.
